@@ -8,11 +8,7 @@ ExoticGarden 是一个 [Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4)
 
 ## 下载 ExoticGarden
 
-<p align="center">
-  <a href="https://builds.guizhanss.com/SlimefunGuguProject/ExoticGarden/master">
-    <img src="https://builds.guizhanss.com/f/SlimefunGuguProject/ExoticGarden/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 ExoticGarden](https://resources.guizhanss.com/plugin/ExoticGarden)
 
 ## 贡献
 
